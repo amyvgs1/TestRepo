@@ -1,0 +1,1 @@
+ /Users/amyvgs/Desktop/MadProjects/activity3/.dart_tool/flutter_build/e59d99bf12fb5fd22d99c30af8213a29/native_assets.yaml: 

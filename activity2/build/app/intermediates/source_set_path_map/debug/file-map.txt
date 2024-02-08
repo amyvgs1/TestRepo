@@ -1,0 +1,12 @@
+com.example.activity2.app-jetified-annotation-experimental-1.1.0-0 /Users/amyvgs/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.activity2.app-jetified-window-1.0.0-beta04-1 /Users/amyvgs/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.activity2.app-jetified-window-java-1.0.0-beta04-2 /Users/amyvgs/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.activity2.app-core-1.6.0-3 /Users/amyvgs/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.activity2.app-debug-4 /Users/amyvgs/Desktop/MadProjects/activity2/android/app/src/debug/res
+com.example.activity2.app-main-5 /Users/amyvgs/Desktop/MadProjects/activity2/android/app/src/main/res
+com.example.activity2.app-pngs-6 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/generated/res/pngs/debug
+com.example.activity2.app-resValues-7 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/generated/res/resValues/debug
+com.example.activity2.app-rs-8 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/generated/res/rs/debug
+com.example.activity2.app-mergeDebugResources-9 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.activity2.app-mergeDebugResources-10 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.activity2.app-merged_res-11 /Users/amyvgs/Desktop/MadProjects/activity2/build/app/intermediates/merged_res/debug
